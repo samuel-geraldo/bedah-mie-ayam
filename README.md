@@ -14,6 +14,7 @@ Semua notebook ada di folder [`notebooks/`](notebooks/).
    - [`05b_Uji_Terigu`](notebooks/05b_Uji_Terigu.ipynb): Uji sensitivitas, yaitu apakah kesimpulan notebook 2 sampai 5 berubah kalau terigu (data Badan Pangan Nasional) ikut dihitung.
 6. [`06_Siapa_Untung`](notebooks/06_Siapa_Untung.ipynb): Mengecek lewat korelasi apakah perubahan biaya bahan bergerak bersama saham CPIN, JPFA, INDF, ICBP, dan AALI.
 7. [`07_Indeks_Mie_Ayam_Bagian1`](notebooks/07_Indeks_Mie_Ayam_Bagian1.ipynb): Bagian 1 dari pembuatan indeks biaya mie ayam (Jan 2021 = 100); baru mengenal struktur dan kekosongan data, belum ada chart atau kesimpulan.
+   - [`07_Indeks_Mie_Ayam_Bagian2`](notebooks/07_Indeks_Mie_Ayam_Bagian2.ipynb) ([Kaggle](https://www.kaggle.com/code/samuelgeraldo/7-indeks-mie-ayam-bagian-2)): Bagian 2 dari indeks biaya mie ayam; menyiapkan data bulanan dan menghitung biaya bahan semangkuk per bulan untuk dicocokkan dengan Notebook 2 (Rp2.763 di Jan 2021 dan Rp3.613 di Sep 2026). Indeks dan dashboard menyusul di bagian berikutnya.
 
 ## Dataset
 
